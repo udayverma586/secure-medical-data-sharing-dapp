@@ -128,3 +128,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## Contact
 For questions or collaboration opportunities, please open an issue on the project repository.
 
+## contract details : 0xC9b9F1e1ba89698AdC88a4A156b973944beF791F
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/fa35b097-647f-48c7-b26b-ba9e368d4c55" />
+
